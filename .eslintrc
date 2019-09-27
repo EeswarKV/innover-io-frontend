@@ -1,0 +1,9 @@
+{
+  "extends": ["airbnb", "prettier", "prettier/react"],
+  "settings": {
+    "import/resolver": { "babel-module": {} }
+  },
+  "plugins": [
+    "import"
+  ]
+}
