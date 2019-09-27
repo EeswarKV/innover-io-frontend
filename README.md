@@ -38,7 +38,7 @@ Required installations before running the code
 ```
 Node version : 8+
 Install mangodb
-create .env file
+create .env file in your local repository
 ```
 Copy below script in env file
 ```
