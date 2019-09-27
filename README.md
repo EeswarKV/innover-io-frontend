@@ -37,7 +37,7 @@ git push -u origin --tags
 Required installations before running the code
 ```
 Node version : 8+
-Install mangodb
+Install mongodb
 create .env file in your local repository
 ```
 Copy below script in env file
