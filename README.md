@@ -1,11 +1,11 @@
 # innover-io-frontend
 
 Command line instructions
-`
+```
 Git global setup
 git config --global user.name "Enter your github username"
 git config --global user.email "Github user email"
-`
+```
 
 Create a new repository
 ```
