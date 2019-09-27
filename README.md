@@ -34,3 +34,30 @@ git remote add origin https://github.com/Eshwar4299/innover-io-frontend
 git push -u origin --all
 git push -u origin --tags
 ```
+Required installations before running the code
+```
+Node version : 8+
+Install mangodb
+create .env file
+```
+Copy below script in env file
+```
+MIGRATE_dbConnectionUri='mongodb://localhost/innoverio'
+MONGO_URI='mongodb://localhost/innoverio'
+SESSION_SECRET='123456789'
+PRODUCTION_URL=https://dev.innover.io
+PORT=3000
+NODE_ENV=development
+```
+Install the dependencies
+```
+npm install
+yarn install
+```
+
+To start the application
+```
+yarn run dev
+```
+
+Have Fun !!!
